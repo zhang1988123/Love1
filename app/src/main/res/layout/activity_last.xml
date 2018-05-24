@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:background="@mipmap/ppp"
+    tools:context=".activity.LastActivity">
+<TextView
+    android:id="@+id/mText"
+    android:layout_gravity="center"
+    android:text=" 报不完的恩，是母亲的恩。
+    还不了的情，是母亲的情。
+    谢不了的爱，是母亲的爱。
+    表达不了的真诚心，依然是浓浓的母爱情。
+    母亲节到了，
+    愿您健康快乐,永远年轻。"
+    android:textSize="22sp"
+    android:textColor="#f2f2e6"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" />
+</LinearLayout>
